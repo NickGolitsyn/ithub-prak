@@ -1,0 +1,10 @@
+.news-box > div {
+    display: flex;
+    margin-bottom: 2rem;
+}
+.news-box {
+    margin-left: 10vw;
+}
+.text {
+    margin-left: 1rem;
+}
